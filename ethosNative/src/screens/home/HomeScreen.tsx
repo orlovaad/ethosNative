@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from 'react-native';
 
-export default function HomeScreen() {
+export function HomeScreen() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Ethos Native</Text>

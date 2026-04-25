@@ -1,0 +1,369 @@
+{
+  "createdValueNode": "出色的工作——您刚刚朝着理解真正驱动您幸福的东西迈出了有力的一步。\n\n您<strong>越频繁地</strong>返回反思您的价值观，您的<strong>方向就会变得越清晰</strong>——在关系、决定和生活中。\n\n随时回来，当您需要清晰度、调整或对真正重要的东西的提醒时。",
+  "haveValue": "您有价值观：",
+  "createEntryPage": {
+    "firstModal": {
+      "title": "回忆幸福时刻",
+      "description": "花几分钟时间回忆幸福时刻。在您的脑海中重播您真正<strong>感受到喜悦</strong>的时刻。使用您的感官来重温它们——情绪、感觉、光明。\n\n随着每次反思，让这些记忆变得更加强烈和生动，就像您一遍又一遍地重新体验那种幸福。",
+      "btn": "好的"
+    },
+    "secondModal": {
+      "title": "什么价值观指引您的生活？",
+      "description": "想象一个您繁荣发展的未来，一切都感觉协调一致并充满目的。\n\n当您感觉到您的情绪变化并提升时，问问自己：<strong>什么价值观必须指引我的生活，以便这个幸福愿景成为我的现实？</strong>",
+      "btn": "让我们开始"
+    },
+    "thirdModal": {
+      "title": "什么点燃您内心的喜悦？",
+      "description": "写下那些<strong>让您充满能量的话语，</strong>那些点燃喜悦并带来活力涌流的话语——让您<strong>感到活着</strong>并在流动中的话语。",
+      "btn": "让我们思考"
+    },
+    "fourModal": {
+      "title": "指导方针",
+      "description": "<strong>始终保持在您的舒适区</strong>——没有压力，没有强迫。对自己友善和耐心。\n\n<strong>在投入新的反思之前不要查看之前的反思</strong>——每次会话都是新的开始。",
+      "btn": "明白了！"
+    },
+    "fiveModal": {
+      "title": "您的价值观",
+      "description": "<strong>大声朗读：</strong>为了让我的幸福理念完全实现，我的首要价值观应该是什么？\n\n写下您想到的一切——<strong>每行1-2个字</strong>。",
+      "btn": "关闭"
+    }
+  },
+  "vsSynthesize": {
+    "header": "价值观-语义合成",
+    "nModal": {
+      "title": "输入意义",
+      "description": " 合成按钮不可用，直到价值观有<strong>至少两个输入的意义。</strong>"
+    },
+    "sortTabList": {
+      "all": "全部",
+      "synthesized": "已合成",
+      "nonSynthesized": "未合成",
+      "notlistMeanings": "未列出意义",
+      "synthesize": "合成"
+    }
+  },
+  "semanticSynthesis": {
+    "headerBackText": "语义合成",
+    "notificationTitle": "合并之前的条目",
+    "notificationDescription": "滚动浏览您同一价值观的先前条目，并将它们合并为更全面的意义。",
+    "textAreaPlaceholder": "开始合成意义...",
+    "buttonText": "合成"
+  },
+  "profile": {
+    "profile": "个人资料",
+    "dayValueText": "爱是与这个共享和形成的现实中的一切和所有人统一的感觉。这是信任和促进成长的空间，成为更好的人。协同。这是温暖舒适的地方，从中只能创造。"
+  },
+  "statisticAccount": {
+    "balance": "平衡",
+    "level": "等级",
+    "longestStrike": "最长连击",
+    "day": "天",
+    "days": "天",
+    "daysPlural": "天"
+  },
+  "interests": {
+    "topHabits": "最佳习惯",
+    "missions": "任务",
+    "accessibleInLevel": "在等级 {{level}} 上可访问"
+  },
+  "common": {
+    "next": "下一步",
+    "notSupportVideo": "您的浏览器不支持视频。",
+    "gotIt": "明白了！",
+    "getStarted": "开始",
+    "letsDoThis": "让我们开始吧！",
+    "letsStart": "让我们开始！",
+    "letsGo": "走吧！",
+    "yes": "是",
+    "no": "否",
+    "maybe": "也许",
+    "close": "关闭",
+    "back": "返回",
+    "submit": "提交",
+    "submitted": "已提交",
+    "loading": "加载中...",
+    "great": "太棒了！",
+    "congratulations": "恭喜！",
+    "seeYourStats": "查看统计 >",
+    "checkingIn": "检查中",
+    "noAvatar": "无头像",
+    "hideMore": "隐藏更多",
+    "showMore": "显示更多",
+    "dontShare": "不分享",
+    "enterMeanings": "输入意义",
+    "mergePreviousEntries": "合并之前的条目"
+  },
+
+  "startPage": {
+    "whatAmIDoingHere": "我在做什么？",
+    "firstWindow": {
+      "title": "ETHOS",
+      "description": "改善人性，创造更美好的世界"
+    },
+    "secondWindow": {
+      "welcome": "欢迎来到 Ethos"
+    },
+    "windowBlockDesktop": {
+      "description": "禁用的桌面版本。"
+    }
+  },
+
+  "homePage": {
+    "syncValues": "同步价值观"
+  },
+
+  "popups": {
+    "authCounter": {
+      "firstAuth": {
+        "title": "欢迎来到 Ethos 宇宙",
+        "description": "请花一点时间完全独处，在接下来的5-10分钟内没有人会打扰您。这对接下来要做的事情至关重要。"
+      },
+      "secondAuth": {
+        "title": "欢迎回到 Ethos 宇宙",
+        "description": "请花一点时间完全独处，在接下来的5-10分钟内没有人会打扰您。这对接下来要做的事情至关重要。"
+      }
+    }
+  },
+
+  "stories": {
+    "first": {
+      "slide1": {
+        "description": "太棒了！让我们探索您的价值观如何变化以及它们如何焕发生机。\n\n**加入7天直觉系列 —**\n定期练习加强您与真正重要事物的契合，将您的价值观从潜意识提升到意识层面。\n\n在本周末，您将收到对您的价值观体系演变的分析。",
+        "button": "让我们开始吧！"
+      },
+      "slide2": {
+        "description": "**一致性是关键。**\n\n当您完成**7天直觉系列**而没有错过一天时，您的代币账户将翻倍。\n\n更清晰、更直觉、更奖励。\n\n未来的您会感谢您。",
+        "button": "下一步"
+      },
+      "slide3": {
+        "description": "您将在接下来的5-10分钟内完成**一系列简单的反思练习**。\n\n开始前的一些提醒：做练习时始终保持在您的舒适区 - 没有压力，没有强迫。\n\n**对自己友善和耐心。**\n\n在深入新迭代之前不要查看之前的迭代，也不要试图记住您的迭代 - 每个会话都是新的开始。当您准备好时 - 点击'让我们开始'按钮继续。",
+        "button": "让我们开始！"
+      }
+    },
+    "third": {
+      "slide1": {
+        "description": "这是您真正与对您最重要的东西建立联系的机会。\n\n让我们一天一天地发现您的核心价值观。\n\n**加入7天直觉系列 —**\n定期练习加强您与真正重要事物的契合，将您的价值观从潜意识提升到意识层面。\n\n在本周末，您将收到对您的价值观体系演变的分析。",
+        "button": "让我们开始吧！"
+      }
+    },
+    "fourth": {
+      "slide1": {
+        "description": "这是您真正与对您最重要的东西建立联系的机会。\n\n让我们一天一天地发现您的核心价值观。\n\n**加入7天直觉系列 —**\n定期练习加强您与真正重要事物的契合，将您的价值观从潜意识提升到意识层面。\n\n在本周末，您将收到对您的价值观体系演变的分析。",
+        "button": "下一步"
+      }
+    }
+  },
+
+  "onboarding": {
+    "familiarity": {
+      "title": "您对价值观语义技术了解多少？",
+      "options": {
+        "neverHeard": "从未听说过",
+        "watchedSeminars": "看过一些研讨会",
+        "enrolledInPrograms": "目前注册了价值观语义技术课程",
+        "usingVst5Years": "使用价值观语义技术已有5年+"
+      }
+    },
+    "checkInFrequency": {
+      "title": "您多久检查一次您的价值观？",
+      "options": {
+        "rarely": "很少",
+        "noLessThanThreeDays": "每三天至少一次",
+        "daily": "每日",
+        "moreThanOnceADay": "每天多次"
+      }
+    },
+    "changesNoticed": {
+      "title": "自从您开始以来，您注意到任何变化吗？如果是的话，是什么变化？",
+      "options": {
+        "notClear": "不清楚",
+        "positiveEmotionalChanges": "我在我的情绪状态中看到了积极的变化",
+        "closeToPassionarity": "我接近激情状态",
+        "improvedCapabilities": "我觉得我的能力得到了改善"
+      }
+    },
+    "knowYourValues": {
+      "title": "您知道您的价值观是什么吗？",
+      "options": {
+        "yes": "是",
+        "no": "否",
+        "maybe": "也许",
+        "usingVstToObserve": "我正在使用价值观语义技术来观察它们",
+        "whatAreValues": "什么是价值观？"
+      }
+    }
+  },
+
+  "values": {
+    "dashboard": {
+      "splitByValues": "按价值观划分"
+    },
+    "forms": {
+      "emotionalResponse": "情绪回应",
+      "description": "点击：给您最积极情绪回应的价值观，并在此时点燃喜悦感。",
+      "happinessQuestion": "为了让我的幸福理念完全实现，我的价值观应该是什么？",
+      "startWriting": "开始写...",
+      "somethingIs": "某物是...."
+    },
+    "links": {
+      "store": "商店",
+      "tasks": "任务",
+      "account": "账户",
+      "level": "等级",
+      "points": "积分"
+    },
+    "buttons": {
+      "newEntry": "新条目",
+      "synthesize": "合成"
+    },
+    "labels": {
+      "value": "价值观：",
+      "date": "日期："
+    }
+  },
+
+  "account": {
+    "stats": {
+      "daysStreak": "天",
+      "longestPracticeStreak": "最长的练习系列"
+    },
+    "interests": {
+      "topHabits": "最佳习惯：",
+      "missions": "任务："
+    },
+    "navigation": {
+      "backToHomePage": "返回主页"
+    }
+  },
+
+  "settings": {
+    "header": "设置",
+    "language": "语言",
+    "selectLanguageHeader": "选择语言",
+    "selectLanguage": "中文",
+    "listLanguage": {
+      "ar": "العربية",
+      "en": "English",
+      "es": "Español",
+      "fr": "Français",
+      "ru": "Русский",
+      "zh": "中文"
+    },
+    "privacyPolicy": "隐私政策",
+    "termsAndConditions": "条款和条件",
+    "cookiesPolicy": "Cookie 政策",
+    "contact": "联系我们",
+    "email": "电子邮件"
+  },
+
+  "tasks": {
+    "header": "任务",
+    "completeTasksAndEarnRewards": "完成任务并获得奖励",
+    "rewardDescription": "我们会在您完成每个任务后立即奖励积分，并在您消费积分后提供改进",
+    "taskInstagram": {
+      "title": "在 Instagram 上关注 Ethos4humanity",
+      "description": "敬请关注我们关于 Ethos 最新发展和社区的更新。"
+    }
+  },
+
+  "explore": {
+    "header": "探索",
+    "completeTasksAndEarnRewards": "完成任务并获得奖励",
+    "rewardDescription": "我们会在您完成每个任务后立即奖励积分，并在您消费积分后提供改进",
+    "guidedMeditations": {
+      "title": "3个引导冥想套装",
+      "description": "这些冥想会在您进行价值观语义练习之前让您进入正确的思维状态"
+    }
+  },
+
+  "analysis": {
+    "header": "分析和统计",
+    "daysUntilMatrix": "天，直到您在此处看到您的价值观矩阵"
+  },
+
+  "statistics": {
+    "valueFrequency": "价值观频率",
+    "numberOfMeanings": "意义数量",
+    "lastEntryDate": "最后条目日期",
+    "synthesizedMeanings": "合成的意义",
+    "valuesMatrix": "价值观矩阵",
+    "uniqueValuesDiscovered": "独特价值观已被发现",
+    "topTenValues": "前10个价值观",
+    "coreValues": "核心价值观",
+    "hierarchyOfValues": "价值观层次",
+    "valuesExpression": "价值观表达",
+    "valuesWithHPER": "带有 HPER 的价值观",
+    "stillInProgress": "仍在进行中...",
+    "weeklyStats": {
+      "greeting": "你好",
+      "description": "让我们看看您本周的价值观统计数据，并分析您的一些重要数据点。"
+    }
+  },
+
+  "navigation": {
+    "tabs": {
+      "values": "价值观",
+      "meanings": "意义",
+      "norms": "规范",
+      "goals": "目标",
+      "explore": "探索",
+      "tasks": "任务",
+      "account": "账户"
+    }
+  },
+
+  "widgets": {
+    "dayValue": {
+      "title": "今日价值观"
+    }
+  },
+
+  "header": {
+    "today": "今天"
+  },
+
+  "meanings": {
+    "headers": {
+      "meaningsLibrary": "意义图书馆",
+      "meaningDashboard": "意义仪表板"
+    },
+    "notifications": {
+      "exploreMeanings": {
+        "title": "让我们探索您的主要价值观对您意味着什么",
+        "description": "点击任何现在吸引您的价值观。"
+      },
+      "greatJob": {
+        "title": "干得好！",
+        "description": "现在您可以选择与全世界分享您的意义（这将反映在您的个人资料中）以获得额外2个代币。"
+      }
+    },
+    "modals": {
+      "giveValueDefinition": {
+        "title": "为您的价值观下定义",
+        "description": "在这里，您可以定义所选价值观的意义，该价值观目前引发最积极的情绪回应。不要欺骗自己。不需要炫耀。您想到什么，就写在1-2句话中。"
+      },
+      "meaningsDashboard": {
+        "title": "意义仪表板",
+        "description": "这是您的价值观意义统计部分。让我们看看您可以在这里探索什么。"
+      },
+      "letsGo": "走吧！"
+    }
+  },
+
+  "share": {
+    "header": "分享",
+    "buttons": {
+      "shareWithWorld": "与全世界分享",
+      "shareIncognito": "匿名分享"
+    }
+  },
+
+  "otherSay": {
+    "header": "分享",
+    "modal": {
+      "title": "其他人怎么说",
+      "description": "看看其他人对这个相同价值观怎么说。\n有时，一个新的视角就能解锁一个全新的意义层面。\n我们人类为彼此带来新的维度——这就是我们成长的方式。",
+      "button": "给我看看！"
+    }
+  }
+}
