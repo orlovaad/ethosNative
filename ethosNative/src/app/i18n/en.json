@@ -1,0 +1,354 @@
+{
+  "createdValueNode": "Amazing work - you’ve just taken a powerful step toward understanding what truly drives your happiness. \n\n The more <strong>often you</strong> return to reflect on your values, the <strong>clearer your direction becomes</strong> — in relationships, in decisions, and in life itself.\n\nCome back anytime you need clarity, alignment, or a reminder of what really matters.",
+  "haveValue": "You have value:",
+  "syncValuesBtn": {
+    "disabledModal": {
+      "title": "Hey there",
+      "description": "Looks like you’ve already recorded your values for today. Great job! \n\nOnce a day is enough. \n\nIn the meantime you can click on the Meanings Library and work on the semantic portion of your values as you please. \n\nAnd always remember that consistency is key here. Doing a little bit every day will result in incredible outcomes over time",
+      "btn": "Okay"
+    }
+  },
+  "createEntryPage": {
+    "firstModal": {
+      "title": "Recalling moments of happiness",
+      "description": "Spend a few minutes recalling moments of happiness. Replay in your mind the times you truly <strong>felt joy</strong>. Use your senses to relive them — the emotions, the sensations, the brightness. \n\nWith every reflection, let these memories grow stronger and more vivid, as if you're experiencing that happiness again and again.",
+      "btn": "Okay"
+    },
+    "secondModal": {
+      "title": "What values guide your life?",
+      "description": "Picture a future where you thrive, where everything feels aligned and full of purpose.\n\nWhen you feel your mood shift and uplift, ask yourself: <strong>What values must guide my life in order for this vision of happiness to become my reality?</strong>",
+      "btn": "Let’s start"
+    },
+    "thirdModal": {
+      "title": "What sparks joy in you?",
+      "description": "Write down the words that <strong>fill you with energy,</strong> that spark joy, and bring a rush of vitality — words that make you <strong>feel alive</strong> and in flow.",
+      "btn": "Let’s think"
+    },
+    "fourModal": {
+      "title": "Guidelines",
+      "description": "<strong>Always stay in your comfort zone</strong> — no stress, no force. Be kind and patient with yourself.\n\n<strong>Don’t peek at past reflections</strong> before you dive into the new one — each session is a fresh start.",
+      "btn": "Got it!"
+    },
+    "fiveModal": {
+      "title": "Your values",
+      "description": "<strong>Read out loud:</strong> What should my top values be in order for my idea of happiness to actualize fully?\n\nWrite down everything that comes to your mind - <strong>1-2 words per line</strong>.",
+      "btn": "Close"
+    }
+  },
+  "vsSynthesize": {
+    "header": "Value-Semantic Synthesis",
+    "nModal": {
+      "title": "Enter meanings",
+      "description": " Synthesize button is unavailable until the value has <strong>at least two meanings entered.</strong>"
+    },
+    "sortTabList": {
+      "all": "All",
+      "synthesized": "Synthesized",
+      "nonSynthesized": "Non-synthesized",
+      "notlistMeanings": "Not List meanings",
+      "synthesize": "Synthesize"
+    }
+  },
+  "semanticSynthesis": {
+    "headerBackText": "Semantic synthesis",
+    "notificationTitle": "Merge previous entries",
+    "notificationDescription": "Scroll through your previous entries of the same value and merge them into a more comprehensive meaning.",
+    "textAreaPlaceholder": "Start synthesizing meaning...",
+    "buttonText": "Synthesize"
+  },
+  "profile": {
+    "profile": "Profile",
+    "dayValueText": "Love is a feeling unity with everything and everyone in this shared and shaped reality. It's a space of trust and conducive growth, of becoming better. Of synergy. It's a warm and cozy place from which one can only create."
+  },
+  "statisticAccount": {
+    "balance": "Balance",
+    "level": "Level",
+    "longestStrike": "Longest strike",
+    "day": "day",
+    "days": "days",
+    "daysPlural": "days"
+  },
+  "interests": {
+    "topHabits": "Top habits",
+    "missions": "Missions",
+    "accessibleInLevel": "Accessible in Level {{level}}"
+  },
+  "common": {
+    "next": "Next",
+    "notSupportVideo": "Your browser does not support video.",
+    "gotIt": "Got it!",
+    "getStarted": "Get started",
+    "letsDoThis": "Let's do this!",
+    "letsStart": "Let's start!",
+    "letsGo": "Let's go!",
+    "yes": "Yes",
+    "no": "No",
+    "maybe": "Maybe",
+    "close": "Close",
+    "back": "Back",
+    "submit": "Submit",
+    "submitted": "Submitted",
+    "loading": "Loading...",
+    "great": "Great!",
+    "congratulations": "Congratulations!",
+    "seeYourStats": "See your stats >",
+    "checkingIn": "Checking in",
+    "noAvatar": "No Avatar",
+    "hideMore": "Hide more",
+    "showMore": "Show more",
+    "dontShare": "Don't share",
+    "enterMeanings": "Enter meanings",
+    "mergePreviousEntries": "Merge previous entries"
+  },
+  "startPage": {
+    "whatAmIDoingHere": "What am I doing here?",
+    "firstWindow": {
+      "title": "ETHOS",
+      "description": "Enhancing your humanity for a better world"
+    },
+    "secondWindow": {
+      "welcome": "Welcome to Ethos"
+    },
+    "windowBlockDesktop": {
+      "description": "Disabled desktop version."
+    }
+  },
+  "homePage": {
+    "syncValues": "Sync values"
+  },
+  "popups": {
+    "authCounter": {
+      "firstAuth": {
+        "title": "Welcome to Ethos Universe",
+        "description": "Take a moment to be completely alone, where no one can interrupt you for the next 5-10 mins. This is crucial for what's ahead."
+      },
+      "secondAuth": {
+        "title": "Welcome back to Ethos Universe",
+        "description": "Take a moment to be completely alone, where no one can interrupt you for the next 5-10 mins. This is crucial for what's ahead."
+      }
+    }
+  },
+  "stories": {
+    "first": {
+      "slide1": {
+        "description": "Awesome! Let's explore how your values shift and how they come to life.\n\n<strong>Join the 7-day insight streak —</strong>\nregular practice strengthens your alignment with what truly matters to you by taking your values from the subconscious to the conscious level.\n\nAt the end of the week, you'll receive an analysis of how your value system has evolved.",
+        "button": "Let's do this!"
+      },
+      "slide2": {
+        "description": "<strong>Consistency is key.</strong>\n\nWhen you complete your <strong>7-day Insight Streak</strong> without missing a day, you'll 2X your token count.\n\nMore clarity, more insights, more rewards.\n\nYour future self will thank you.",
+        "button": "Next"
+      },
+      "slide3": {
+        "description": "You will go through a <strong>series of simple reflective exercises</strong> in the next 5-10 mins.\n\nA few reminders before you get started: Always stay in your comfort zone while doing the exercises - no stress, no force.\n\n<strong>Be kind and patient with yourself.</strong>\n\nDon't peek at past iterations before diving into the new one and don't attempt to memorize your iterations - each session is a fresh start. Whenever you feel ready - click the Let's start button to continue.",
+        "button": "Let's start!"
+      }
+    },
+    "third": {
+      "slide1": {
+        "description": "This is your chance to truly connect with what matters most to you.\n\nLet's uncover your core values — one day at a time.\n\n<strong>Join the 7-day insight streak —</strong>\nregular practice strengthens your alignment with what truly matters to you by taking your values from the subconscious to the conscious level.\n\nAt the end of the week, you'll receive an analysis of how your value system has evolved.",
+        "button": "Let's do this!"
+      }
+    },
+    "fourth": {
+      "slide1": {
+        "description": "This is your chance to truly connect with what matters most to you.\n\nLet's uncover your core values — one day at a time.\n\n<strong>Join the 7-day insight streak —</strong>\nregular practice strengthens your alignment with what truly matters to you by taking your values from the subconscious to the conscious level.\n\nAt the end of the week, you'll receive an analysis of how your value system has evolved.",
+        "button": "Next"
+      }
+    }
+  },
+  "onboarding": {
+    "familiarity": {
+      "title": "How familiar are you with Value Semantic Technology?",
+      "options": {
+        "neverHeard": "Never heard",
+        "watchedSeminars": "Watched a few seminars",
+        "enrolledInPrograms": "Currently enrolled in VST programs",
+        "usingVst5Years": "Have been using VST 5 years+"
+      }
+    },
+    "checkInFrequency": {
+      "title": "How often do you check in on your values?",
+      "options": {
+        "rarely": "Rarely",
+        "noLessThanThreeDays": "No less than once every three days",
+        "daily": "Daily",
+        "moreThanOnceADay": "More than once a day"
+      }
+    },
+    "changesNoticed": {
+      "title": "Since you started, have you noticed any changes? If yes, what are they?",
+      "options": {
+        "notClear": "Not clear",
+        "positiveEmotionalChanges": "I see positive changes in my emotional state",
+        "closeToPassionarity": "Getting close to passionarity",
+        "improvedCapabilities": "Feel that my capabilities have improved"
+      }
+    },
+    "knowYourValues": {
+      "title": "Do you know what your values are?",
+      "options": {
+        "yes": "Yes",
+        "no": "No",
+        "maybe": "Maybe",
+        "usingVstToObserve": "I'm using VST to observe them",
+        "whatAreValues": "What are values?"
+      }
+    }
+  },
+  "values": {
+    "dashboard": {
+      "splitByValues": "Split by values"
+    },
+    "forms": {
+      "emotionalResponse": "Emotional Response",
+      "description": "Click on: values that give you the highest positive emotional response and spark the sense of joy right in this moment.",
+      "happinessQuestion": "What should my values be in order for my idea of happiness to actualize fully?",
+      "startWriting": "Start writing...",
+      "somethingIs": "Something is...."
+    },
+    "links": {
+      "store": "Store",
+      "tasks": "Tasks",
+      "account": "Account",
+      "level": "Level",
+      "points": "Points"
+    },
+    "buttons": {
+      "newEntry": "New entry",
+      "synthesize": "Synthesize"
+    },
+    "labels": {
+      "value": "Value:",
+      "date": "Date:"
+    }
+  },
+  "account": {
+    "stats": {
+      "daysStreak": "day's",
+      "longestPracticeStreak": "Longest practice streak"
+    },
+    "navigation": {
+      "backToHomePage": "Back to Home Page"
+    }
+  },
+  "settings": {
+    "header": "Settings",
+    "language": "Language",
+    "selectLanguageHeader": "Select language",
+    "selectLanguage": "English",
+    "listLanguage": {
+      "ar": "العربية",
+      "en": "English",
+      "es": "Español",
+      "fr": "Français",
+      "ru": "Русский",
+      "zh": "中文"
+    },
+    "privacyPolicy": "Privacy Policy",
+    "termsAndConditions": "Terms and Conditions",
+    "cookiesPolicy": "Cookies Policy",
+    "contact": "Contact",
+    "email": "Email"
+  },
+  "tasks": {
+    "header": "Tasks",
+    "completeTasksAndEarnRewards": "Complete tasks and earn rewards",
+    "rewardDescription": "We'll reward you immediately with points after each task completion and improvements after points spending",
+    "taskInstagram": {
+      "title": "Follow Ethos4humanity on Instagram",
+      "description": "Stay tuned for our updates on Ethos latest development and community."
+    }
+  },
+  "explore": {
+    "header": "Explore",
+    "completeTasksAndEarnRewards": "Complete tasks and earn rewards",
+    "rewardDescription": "We'll reward you immediately with points after each task completion and improvements after points spending",
+    "guidedMeditations": {
+      "title": "3 Guided Meditations Set",
+      "description": "These meditations will put you in the right frame of mind before proceeding with Value Semantic Exercises"
+    }
+  },
+  "analysis": {
+    "header": "Analysis & Statistics",
+    "daysUntilMatrix": "days till you see your values matrix here"
+  },
+  "statistics": {
+    "valueFrequency": "Value frequency",
+    "numberOfMeanings": "Number of meanings",
+    "lastEntryDate": "Last entry date",
+    "synthesizedMeanings": "Synthesized meanings",
+    "valuesMatrix": "Values matrix",
+    "uniqueValuesDiscovered": "Unique values were discovered",
+    "topTenValues": "Top 10 values",
+    "coreValues": "Core values",
+    "hierarchyOfValues": "Hierarchy of values",
+    "valuesExpression": "Values expression",
+    "valuesWithHPER": "Values with HPER",
+    "stillInProgress": "Still in progress...",
+    "weeklyStats": {
+      "greeting": "Hi",
+      "description": "Let's see your Values Stats for this week and analyze some of your important data points."
+    }
+  },
+  "navigation": {
+    "tabs": {
+      "values": "Values",
+      "meanings": "Meanings",
+      "norms": "Norms",
+      "goals": "Goals",
+      "explore": "Explore",
+      "tasks": "Tasks",
+      "account": "Account"
+    }
+  },
+  "widgets": {
+    "dayValue": {
+      "title": "Value of the Day"
+    }
+  },
+  "header": {
+    "today": "Today"
+  },
+  "meanings": {
+    "headers": {
+      "meaningsLibrary": "Meanings library",
+      "meaningDashboard": "Meaning dashboard"
+    },
+    "notifications": {
+      "exploreMeanings": {
+        "title": "Let’s explore what your top values mean to you",
+        "description": "Tap on any value that calls your name right now."
+      },
+      "greatJob": {
+        "title": "Great job!",
+        "description": "Now you can choose to share your meaning with the world (this will be reflected on your profile) for 2 additional tokens."
+      }
+    },
+    "modals": {
+      "giveValueDefinition": {
+        "title": "Give your value a definition",
+        "description": "Here you can define the meaning of the chosen value that elicits the most positive emotional response right now. Don't try to outsmart yourself. No need to show off. Whatever comes to mind just dot it down in 1-2 sentences."
+      },
+      "meaningsDashboard": {
+        "title": "Meanings Dashboard",
+        "description": "This is the stats section of your values meanings. Let's see what you can explore here."
+      },
+      "letsGo": "Let's go!"
+    }
+  },
+  "share": {
+    "header": "Share",
+    "buttons": {
+      "shareWithWorld": "Share with the world",
+      "shareIncognito": "Share incognito"
+    }
+  },
+  "otherSay": {
+    "header": "Share",
+    "modal": {
+      "title": "What others have to say",
+      "description": "Check out what others have to say about this same value.\nSometimes, just one new perspective can unlock a whole new layer of meaning.\nWe humans bring new dimensions to one another - that's how we grow.",
+      "button": "Show me!"
+    }
+  }
+}

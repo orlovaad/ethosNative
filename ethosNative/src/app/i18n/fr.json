@@ -1,0 +1,369 @@
+{
+  "createdValueNode": "Travail incroyable - vous venez de faire un pas puissant vers la compréhension de ce qui motive vraiment votre bonheur.\n\nPlus <strong>souvent vous</strong> reviendrez réfléchir sur vos valeurs, plus <strong>votre direction deviendra claire</strong> — dans les relations, dans les décisions et dans la vie en général.\n\nRevenez quand vous voulez pour plus de clarté, d'alignement ou un rappel de ce qui compte vraiment.",
+  "haveValue": "Vous avez valeur:",
+  "createEntryPage": {
+    "firstModal": {
+      "title": "Se souvenir des moments de bonheur",
+      "description": "Passez quelques minutes à vous souvenir des moments de bonheur. Repassez dans votre esprit les moments où vous avez vraiment <strong>ressenti la joie</strong>. Utilisez vos sens pour les revivre — les émotions, les sensations, la luminosité.\n\nAvec chaque réflexion, laissez ces souvenirs devenir plus forts et plus vifs, comme si vous ressentiez ce bonheur encore et encore.",
+      "btn": "D'accord"
+    },
+    "secondModal": {
+      "title": "Quelles valeurs guident votre vie ?",
+      "description": "Imaginez un avenir où vous prospérez, où tout semble aligné et rempli de sens.\n\nQuand vous sentez votre humeur changer et s'élever, demandez-vous : <strong>Quelles valeurs doivent guider ma vie pour que cette vision du bonheur devienne ma réalité ?</strong>",
+      "btn": "Commençons"
+    },
+    "thirdModal": {
+      "title": "Qu'est-ce qui allume la joie en vous ?",
+      "description": "Écrivez les mots qui <strong>vous remplissent d'énergie,</strong> qui allument la joie et apportent un afflux de vitalité — des mots qui vous font <strong>vous sentir vivant</strong> et dans le flux.",
+      "btn": "Pensons"
+    },
+    "fourModal": {
+      "title": "Directives",
+      "description": "<strong>Restez toujours dans votre zone de confort</strong> — pas de stress, pas de force. Soyez gentil et patient avec vous-même.\n\n<strong>Ne regardez pas les réflexions précédentes</strong> avant de vous lancer dans les nouvelles — chaque session est un nouveau départ.",
+      "btn": "Compris !"
+    },
+    "fiveModal": {
+      "title": "Vos valeurs",
+      "description": "<strong>Lisez à voix haute :</strong> Quelles devraient être mes principales valeurs pour que mon idée du bonheur s'actualise pleinement ?\n\nÉcrivez tout ce qui vous vient à l'esprit - <strong>1-2 mots par ligne</strong>.",
+      "btn": "Fermer"
+    }
+  },
+  "vsSynthesize": {
+    "header": "Synthèse Valeur-Sémantique",
+    "nModal": {
+      "title": "Entrer les significations",
+      "description": " Le bouton de synthèse n'est pas disponible tant que la valeur n'a pas <strong>au moins deux significations saisies.</strong>"
+    },
+    "sortTabList": {
+      "all": "Tout",
+      "synthesized": "Synthétisé",
+      "nonSynthesized": "Non synthétisé",
+      "notlistMeanings": "Pas liste significations",
+      "synthesize": "Synthétiser"
+    }
+  },
+  "semanticSynthesis": {
+    "headerBackText": "Synthèse sémantique",
+    "notificationTitle": "Fusionner les entrées précédentes",
+    "notificationDescription": "Faites défiler vos entrées précédentes de la même valeur et fusionnez-les en un sens plus complet.",
+    "textAreaPlaceholder": "Commencez à synthétiser le sens...",
+    "buttonText": "Synthétiser"
+  },
+  "profile": {
+    "profile": "Profil",
+    "dayValueText": "L'amour est un sentiment d'unité avec tout et tous dans cette réalité partagée et formée. C'est un espace de confiance et de croissance propice, de devenir meilleur. De synergie. C'est un endroit chaud et confortable d'où l'on ne peut que créer."
+  },
+  "statisticAccount": {
+    "balance": "Équilibre",
+    "level": "Niveau",
+    "longestStrike": "Plus longue série",
+    "day": "jour",
+    "days": "jours",
+    "daysPlural": "jours"
+  },
+  "interests": {
+    "topHabits": "Meilleures habitudes",
+    "missions": "Missions",
+    "accessibleInLevel": "Accessible au niveau {{level}}"
+  },
+  "common": {
+    "next": "Suivant",
+    "notSupportVideo": "Votre navigateur ne prend pas en charge la vidéo.",
+    "gotIt": "Compris !",
+    "getStarted": "Commencer",
+    "letsDoThis": "Faisons-le !",
+    "letsStart": "Commençons !",
+    "letsGo": "Allons-y !",
+    "yes": "Oui",
+    "no": "Non",
+    "maybe": "Peut-être",
+    "close": "Fermer",
+    "back": "Retour",
+    "submit": "Envoyer",
+    "submitted": "Envoyé",
+    "loading": "Chargement...",
+    "great": "Génial !",
+    "congratulations": "Félicitations !",
+    "seeYourStats": "Voir les statistiques >",
+    "checkingIn": "Vérification",
+    "noAvatar": "Pas d'avatar",
+    "hideMore": "Masquer plus",
+    "showMore": "Afficher plus",
+    "dontShare": "Ne pas partager",
+    "enterMeanings": "Entrer les significations",
+    "mergePreviousEntries": "Fusionner les entrées précédentes"
+  },
+
+  "startPage": {
+    "whatAmIDoingHere": "Que fais-je ici ?",
+    "firstWindow": {
+      "title": "ETHOS",
+      "description": "Améliorer l'humanité pour un monde meilleur"
+    },
+    "secondWindow": {
+      "welcome": "Bienvenue chez Ethos"
+    },
+    "windowBlockDesktop": {
+      "description": "Version bureau désactivée."
+    }
+  },
+
+  "homePage": {
+    "syncValues": "Synchroniser les valeurs"
+  },
+
+  "popups": {
+    "authCounter": {
+      "firstAuth": {
+        "title": "Bienvenue dans l'Univers Ethos",
+        "description": "Prenez un moment pour rester complètement seul, où personne ne pourra vous interrompre pendant les 5-10 prochaines minutes. C'est crucial pour ce qui suit."
+      },
+      "secondAuth": {
+        "title": "Bienvenue de retour dans l'Univers Ethos",
+        "description": "Prenez un moment pour rester complètement seul, où personne ne pourra vous interrompre pendant les 5-10 prochaines minutes. C'est crucial pour ce qui suit."
+      }
+    }
+  },
+
+  "stories": {
+    "first": {
+      "slide1": {
+        "description": "Incroyable ! Explorons comment vos valeurs changent et comment elles prennent vie.\n\n**Rejoignez la série de 7 jours d'intuition —**\nla pratique régulière renforce votre alignement avec ce qui compte vraiment pour vous en portant vos valeurs du subconscient au niveau conscient.\n\nÀ la fin de la semaine, vous recevrez une analyse de l'évolution de votre système de valeurs.",
+        "button": "Faisons-le !"
+      },
+      "slide2": {
+        "description": "**La cohérence est la clé.**\n\nLorsque vous terminez votre **Série d'Intuition de 7 jours** sans manquer un jour, vous doublez votre compte de jetons.\n\nPlus de clarté, plus d'intuitions, plus de récompenses.\n\nVotre futur moi vous remerciera.",
+        "button": "Suivant"
+      },
+      "slide3": {
+        "description": "Vous allez passer par **une série d'exercices réflexifs simples** dans les 5-10 prochaines minutes.\n\nQuelques rappels avant de commencer : Restez toujours dans votre zone de confort tout en faisant les exercices - pas de stress, pas de force.\n\n**Soyez gentil et patient avec vous-même.**\n\nNe regardez pas les itérations précédentes avant de plonger dans la nouvelle et n'essayez pas de mémoriser vos itérations - chaque session est un nouveau départ. Lorsque vous vous sentez prêt - cliquez sur le bouton 'Commençons' pour continuer.",
+        "button": "Commençons !"
+      }
+    },
+    "third": {
+      "slide1": {
+        "description": "C'est votre chance de vous connecter vraiment à ce qui importe le plus pour vous.\n\nDécouvrons vos valeurs principales — un jour à la fois.\n\n**Rejoignez la série de 7 jours d'intuition —**\nla pratique régulière renforce votre alignement avec ce qui compte vraiment pour vous en portant vos valeurs du subconscient au niveau conscient.\n\nÀ la fin de la semaine, vous recevrez une analyse de l'évolution de votre système de valeurs.",
+        "button": "Faisons-le !"
+      }
+    },
+    "fourth": {
+      "slide1": {
+        "description": "C'est votre chance de vous connecter vraiment à ce qui importe le plus pour vous.\n\nDécouvrons vos valeurs principales — un jour à la fois.\n\n**Rejoignez la série de 7 jours d'intuition —**\nla pratique régulière renforce votre alignement avec ce qui compte vraiment pour vous en portant vos valeurs du subconscient au niveau conscient.\n\nÀ la fin de la semaine, vous recevrez une analyse de l'évolution de votre système de valeurs.",
+        "button": "Suivant"
+      }
+    }
+  },
+
+  "onboarding": {
+    "familiarity": {
+      "title": "À quel point êtes-vous familier avec la Technologie Sémantique des Valeurs ?",
+      "options": {
+        "neverHeard": "Jamais entendu parler",
+        "watchedSeminars": "Vu quelques séminaires",
+        "enrolledInPrograms": "Actuellement inscrit aux programmes TSV",
+        "usingVst5Years": "J'utilise la TSV depuis 5 ans+"
+      }
+    },
+    "checkInFrequency": {
+      "title": "À quelle fréquence vérifiez-vous vos valeurs ?",
+      "options": {
+        "rarely": "Rarement",
+        "noLessThanThreeDays": "Pas moins d'une fois tous les trois jours",
+        "daily": "Quotidiennement",
+        "moreThanOnceADay": "Plus d'une fois par jour"
+      }
+    },
+    "changesNoticed": {
+      "title": "Depuis que vous avez commencé, avez-vous remarqué des changements ? Si oui, lesquels sont-ils ?",
+      "options": {
+        "notClear": "Ce n'est pas clair",
+        "positiveEmotionalChanges": "Je vois des changements positifs dans mon état émotionnel",
+        "closeToPassionarity": "Je m'approche de la passionnarité",
+        "improvedCapabilities": "Je sens que mes capacités se sont améliorées"
+      }
+    },
+    "knowYourValues": {
+      "title": "Savez-vous quelles sont vos valeurs ?",
+      "options": {
+        "yes": "Oui",
+        "no": "Non",
+        "maybe": "Peut-être",
+        "usingVstToObserve": "J'utilise la TSV pour les observer",
+        "whatAreValues": "Qu'est-ce que les valeurs ?"
+      }
+    }
+  },
+
+  "values": {
+    "dashboard": {
+      "splitByValues": "Diviser par valeurs"
+    },
+    "forms": {
+      "emotionalResponse": "Réponse émotionnelle",
+      "description": "Cliquez sur : valeurs qui vous donnent la réponse émotionnelle la plus positive et allument le sens de la joie juste en ce moment.",
+      "happinessQuestion": "Quelles devraient être mes valeurs pour que mon idée du bonheur s'actualise pleinement ?",
+      "startWriting": "Commencez à écrire...",
+      "somethingIs": "Quelque chose est...."
+    },
+    "links": {
+      "store": "Boutique",
+      "tasks": "Tâches",
+      "account": "Compte",
+      "level": "Niveau",
+      "points": "Points"
+    },
+    "buttons": {
+      "newEntry": "Nouvelle entrée",
+      "synthesize": "Synthétiser"
+    },
+    "labels": {
+      "value": "Valeur :",
+      "date": "Date :"
+    }
+  },
+
+  "account": {
+    "stats": {
+      "daysStreak": "jour",
+      "longestPracticeStreak": "Plus longue série de pratique"
+    },
+    "interests": {
+      "topHabits": "Meilleures habitudes :",
+      "missions": "Missions :"
+    },
+    "navigation": {
+      "backToHomePage": "Retour à la page d'accueil"
+    }
+  },
+
+  "settings": {
+    "header": "Paramètres",
+    "language": "Langue",
+    "selectLanguageHeader": "Sélectionner la langue",
+    "selectLanguage": "Français",
+    "listLanguage": {
+      "ar": "العربية",
+      "en": "English",
+      "es": "Español",
+      "fr": "Français",
+      "ru": "Русский",
+      "zh": "中文"
+    },
+    "privacyPolicy": "Politique de confidentialité",
+    "termsAndConditions": "Termes et conditions",
+    "cookiesPolicy": "Politique des cookies",
+    "contact": "Contact",
+    "email": "E-mail"
+  },
+
+  "tasks": {
+    "header": "Tâches",
+    "completeTasksAndEarnRewards": "Complète des tâches et gagne des récompenses",
+    "rewardDescription": "Nous te récompenserons immédiatement avec des points après chaque achèvement de tâche et des améliorations après la dépense de points",
+    "taskInstagram": {
+      "title": "Suivez Ethos4humanity sur Instagram",
+      "description": "Restez à l'écoute pour nos mises à jour sur les derniers développements et la communauté Ethos."
+    }
+  },
+
+  "explore": {
+    "header": "Explorer",
+    "completeTasksAndEarnRewards": "Complète des tâches et gagne des récompenses",
+    "rewardDescription": "Nous te récompenserons immédiatement avec des points après chaque achèvement de tâche et des améliorations après la dépense de points",
+    "guidedMeditations": {
+      "title": "Ensemble de 3 méditations guidées",
+      "description": "Ces méditations te mettront dans le bon état d'esprit avant de procéder aux exercices sémantiques de valeurs"
+    }
+  },
+
+  "analysis": {
+    "header": "Analyse et statistiques",
+    "daysUntilMatrix": "jours jusqu'à ce que vous voyiez votre matrice de valeurs ici"
+  },
+
+  "statistics": {
+    "valueFrequency": "Fréquence de valeur",
+    "numberOfMeanings": "Nombre de significations",
+    "lastEntryDate": "Date de dernière entrée",
+    "synthesizedMeanings": "Significations synthétisées",
+    "valuesMatrix": "Matrice de valeurs",
+    "uniqueValuesDiscovered": "Valeurs uniques ont été découvertes",
+    "topTenValues": "Top 10 valeurs",
+    "coreValues": "Valeurs principales",
+    "hierarchyOfValues": "Hiérarchie des valeurs",
+    "valuesExpression": "Expression des valeurs",
+    "valuesWithHPER": "Valeurs avec HPER",
+    "stillInProgress": "Encore en cours...",
+    "weeklyStats": {
+      "greeting": "Salut",
+      "description": "Voyons vos statistiques de valeurs de cette semaine et analysons certains de vos points de données importants."
+    }
+  },
+
+  "navigation": {
+    "tabs": {
+      "values": "Valeurs",
+      "meanings": "Significations",
+      "norms": "Normes",
+      "goals": "Objectifs",
+      "explore": "Explorer",
+      "tasks": "Tâches",
+      "account": "Compte"
+    }
+  },
+
+  "widgets": {
+    "dayValue": {
+      "title": "Valeur du jour"
+    }
+  },
+
+  "header": {
+    "today": "Aujourd'hui"
+  },
+
+  "meanings": {
+    "headers": {
+      "meaningsLibrary": "Bibliothèque de significations",
+      "meaningDashboard": "Tableau de bord des significations"
+    },
+    "notifications": {
+      "exploreMeanings": {
+        "title": "Explorons ce que vos valeurs principales signifient pour vous",
+        "description": "Appuyez sur n'importe quelle valeur qui vous appelle maintenant."
+      },
+      "greatJob": {
+        "title": "Excellent travail !",
+        "description": "Vous pouvez maintenant choisir de partager votre signification avec le monde (ceci sera reflété sur votre profil) pour 2 jetons supplémentaires."
+      }
+    },
+    "modals": {
+      "giveValueDefinition": {
+        "title": "Donnez une définition à votre valeur",
+        "description": "Ici, vous pouvez définir la signification de la valeur choisie qui suscite la réponse émotionnelle la plus positive en ce moment. Ne vous trompez pas vous-même. Pas besoin de vous montrer. Ce qui vous vient à l'esprit, écrivez-le en 1-2 phrases."
+      },
+      "meaningsDashboard": {
+        "title": "Tableau de bord des significations",
+        "description": "Ceci est la section des statistiques de vos significations de valeurs. Voyons ce que vous pouvez explorer ici."
+      },
+      "letsGo": "Allons-y !"
+    }
+  },
+
+  "share": {
+    "header": "Partager",
+    "buttons": {
+      "shareWithWorld": "Partager avec le monde",
+      "shareIncognito": "Partager de façon anonyme"
+    }
+  },
+
+  "otherSay": {
+    "header": "Partager",
+    "modal": {
+      "title": "Ce que les autres disent",
+      "description": "Regardez ce que les autres disent sur cette même valeur.\nParfois, juste une nouvelle perspective peut débloquer un niveau complètement nouveau de signification.\nNous les humains apportons de nouvelles dimensions les uns aux autres - c'est ainsi que nous grandissons.",
+      "button": "Montrez-moi !"
+    }
+  }
+}
